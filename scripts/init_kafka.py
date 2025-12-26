@@ -3,6 +3,9 @@
 """
 Spark Structured Streaming pour clickstream - Schéma du dataset
 Version corrigée
+
+
+
 """
 
 from pyspark.sql import SparkSession
